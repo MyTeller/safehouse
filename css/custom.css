@@ -1,0 +1,125 @@
+.inputdes{
+        border: 0 solid #555;
+        outline: none;
+}
+
+.dot {
+    height: 45px;
+    width: 50px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+
+.steps{
+    border-style: none; 
+    height: 250px; 
+    width: 300px; 
+    background-color: white; 
+    left: 150px; 
+    position: relative;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+
+.dot {
+    height: 50px;
+    width: 50px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    z-index: 3;
+    top: 30px;
+  }
+
+
+  .single-service-area {
+    position: relative;
+    z-index: 1; }
+    .single-service-area .icon {
+      -webkit-transition-duration: 500ms;
+      transition-duration: 500ms;
+      -webkit-box-flex: 0;
+      -ms-flex: 0 0 60px;
+      flex: 0 0 60px;
+      max-width: 60px;
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      background-color:;
+      text-align: center;
+      margin-right: 20px;
+      line-height: 60px;
+      color: #ffffff;
+      font-size: 30px; }
+    .single-service-area .text h5 {
+      -webkit-transition-duration: 500ms;
+      transition-duration: 500ms;
+      font-size: 18px; }
+    .single-service-area .text p {
+      margin-bottom: 0; }
+    /* .single-service-area:hover .icon, .single-service-area:focus .icon {
+      background-color: #ffbb38; }
+    .single-service-area:hover .text h5, .single-service-area:focus .text h5 {
+      color: #ffbb38; } */
+
+      .text h5{
+
+      }
+
+      .section-padding-100-0 {
+        padding-top: 100px;
+        padding-bottom: 0; }
+
+        p{
+            color: rgb(194, 214, 214);
+        }
+
+        a {
+            color: rgb(128, 128, 128);
+        }
+
+
+        .divss {
+          background-color: white;
+          width: 70rem;
+          height: 10rem;
+          padding: 30px;
+          margin: 30px;
+          position: relative;
+
+        }
+        
+
+
+        h7 {
+          font-size: 20px;
+          color: blue;
+        }
+
+
+
+
+        .divs {
+          background-color: white;
+          width: 18rem;
+          height: 18rem;
+          padding: 30px;
+          margin: 10px;
+          position: relative;
+        }
+        
+        .circle {
+        height: 70px;
+          width: 70px;
+         
+          border-radius: 50%;
+          display: inline-block;
+          margin-bottom: 10px;
+          
+        }
+        
+        .card-title{
+          font-size: 20px;
+          font-weight: 600;
+        }
